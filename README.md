@@ -13,6 +13,22 @@ A human-directed workspace for AI-assisted information and collaboration.
 
 [Visit the Waquela website](https://digist-sg-beta.web.app) · [Product overview](docs/overview.md) · [Beta notes](docs/beta.md)
 
+## Brand Film
+
+### The Cards of a Young Geek's Life
+
+An ordinary life.<br>
+Everyday decisions.<br>
+A new way to collaborate.
+
+A fictional short film exploring AI-assisted collaboration across different stages of everyday life.
+
+[![The Cards of a Young Geek's Life — Waquela brand film](assets/waquela-brand-film-cover.jpg)](https://youtu.be/op-7Q8Kxpu0)
+
+[Watch the film on YouTube](https://youtu.be/op-7Q8Kxpu0)
+
+Music generated with Google Vids AI.
+
 ## What is Waquela?
 
 Waquela is an experimental, human-directed workspace powered by CKD.
